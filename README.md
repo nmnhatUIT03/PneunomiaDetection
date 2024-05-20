@@ -6,6 +6,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/nmnhatUIT03/PneunomiaDetection/blob/main/home.png" alt="project-screenshot" width="1872" height="982/">
+<img src="https://github.com/nmnhatUIT03/PneunomiaDetection/blob/main/home.png" alt="project-screenshot">
 
-<img src="https://github.com/nmnhatUIT03/PneunomiaDetection/blob/main/importandetect.png" alt="project-screenshot" width="1868" height="976/">
+<img src="https://github.com/nmnhatUIT03/PneunomiaDetection/blob/main/importandetect.png" alt="project-screenshot">
